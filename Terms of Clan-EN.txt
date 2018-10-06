@@ -2,7 +2,7 @@ Clan Terms
 
 To make it blurry, the climbs are going to run, but managed by the game, activity provided by the VC server, game server "Bullet High School" (hereafter, this clan is good We will establish this agreement on the use of
 
-Article 1 (definition)
+Article 1 (Definition)
 
 In this agreement, the terms listed in the following items shall be used with the following meanings. "This clan" is a clan "Bullet High School" composed of a clan master and executives and members. "User" means a person other than the clan master of this clan who has the qualification to belong to the clan.
 
@@ -63,7 +63,7 @@ Article 7 (Copyright)
 
 3. In the event of a problem in violation of the terms of this section, the user shall solve the problem related to its own responsibility and cost, and shall not cause any inconvenience or damage to this clan.
 
-Article 8 (liability)
+Article 8 (Liability)
 
 1. This clan is not responsible for any change, interruption, cancellation, suspension, discontinuation of this server, or any other damage caused by the user or a third party related to this clan.
 
@@ -71,7 +71,7 @@ Article 8 (liability)
 
 3. In the event that the user violates Article 3-2, if there are other reasons that the Clan deems inappropriate as a user, this clan may cancel the user's qualification and refuse to access the server We are located.
 
-Article 9 (Personal Information Protection Policy)
+Article 9 (Privacy policy)
 
 Regarding the management and handling of user information that this clan knows about the use of this clan by the user, it is based on the privacy policy separately defined by this clan.
 
